@@ -1,6 +1,5 @@
 ## Khialah-s-real-estate
 A website we created for a real estate selling and buying store.
-<br>
 In this project we have created a website that is possible to present all accomudiation products including buying from our company or selling your own product to us. The website shall contain 5 sections:
 1- Index page or Main page.
 2- Houses(Buying/Selling).
